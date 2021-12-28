@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1640665962 source:e:\sprints\sprints_github\mohamed_salah_sprints\xo\xo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"XO.h"
+
+1640665921 source:e:\sprints\sprints_github\mohamed_salah_sprints\xo\xo\xo.c
+	"XO.h"
+
+1640666628 e:\sprints\sprints_github\mohamed_salah_sprints\xo\xo\xo.h
+
